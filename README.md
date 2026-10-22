@@ -88,8 +88,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pallavi123-bit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamePallavi123-bit&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages" />
 </p>
 
 ## 🔥 Contribution Streak

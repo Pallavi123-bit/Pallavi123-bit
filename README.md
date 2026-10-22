@@ -89,7 +89,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pallavi123-bit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamePallavi123-bit&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi123-bit&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages" />
 </p>
 
 ## 🔥 Contribution Streak
@@ -111,10 +111,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Pallavi123-bitE">
+ <a href="https://github.com/Pallavi123-bit">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL">
+<a href="https://www.linkedin.com/in/pallavi-girase-it/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 </p>

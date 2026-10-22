@@ -3,7 +3,7 @@
 <h3 align="center">💻 MCA Student | Aspiring Java Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Java+Full+Stack+Developer+in+Progress;Building+Web+Applications;Exploring+React+and+Spring+Boot;Learning+AI+and+Cloud+Technologies" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Java+Full+Stack+Developer+in+Progress;Building+Web+Applications;Exploring+React+and+Spring+Boot;Learning+AI+and+Cloud+Technologies" alt="Animated typing text" />
 </p>
 
 <p align="center">

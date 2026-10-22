@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,12,20&height=150&section=header&text=Code%20%7C%20Learn%20%7C%20Build&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" alt="Profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,12,20&height=150&section=header&text=Code%20%7C%20Learn%20%7C%20Build&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=85" width="100%" alt="Profile banner" />
 </p>
 
 ---

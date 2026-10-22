@@ -59,7 +59,7 @@
 - Lessons, quizzes, and an admin dashboard
 - **Tech Stack:** HTML, CSS, JavaScript, Python Flask, SQLite/MySQL
 
-🔗 [View Repository](https://github.com/YOUR_USERNAME/learnify)
+🔗 [View Repository](https://github.com/Pallavi123-bit/learnify)
 
 ### 2. SmartAssist — AI Chatbot
 🤖 An AI-powered assistant designed to help users interact with a chatbot.
@@ -69,7 +69,7 @@
 - Extensible design for AI-powered features
 - **Tech Stack:** Python, HTML, CSS, JavaScript
 
-🔗 [View Repository](https://github.com/YOUR_USERNAME/smartassist-chatbot)
+🔗 [View Repository](https://github.com/Pallavi123-bit/smartassist-chatbot)
 
 ### 3. WoofIT — Pet Store Website
 🐾 A responsive e-commerce website concept for pet products.
@@ -79,7 +79,7 @@
 - Product browsing interface
 - **Tech Stack:** HTML, CSS, JavaScript
 
-🔗 [View Repository](https://github.com/YOUR_USERNAME/woofit)
+🔗 [View Repository](https://github.com/Pallavi123-bit/woofit)
 
 > Replace these project names, descriptions, technologies, and repository links if your actual project details differ.
 
@@ -95,13 +95,13 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Pallavi123-bit&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Pallavi123-bit/Pallavi123-bit/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 *Note: The contribution snake requires a GitHub Actions workflow to generate the SVG before it will display.*
@@ -111,7 +111,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Pallavi123-bitE">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="YOUR_LINKEDIN_PROFILE_URL">

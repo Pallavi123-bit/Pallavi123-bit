@@ -1,37 +1,134 @@
-<h1 align="center">Hi 👋, I'm pallavi vivekanand girase</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+ <h1 align="center">Hi 👋, I'm Pallavi Girase</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavi123-bit&label=Profile%20views&color=0e75b6&style=flat" alt="pallavi123-bit" /> </p>
+<h3 align="center">💻 MCA Student | Aspiring Java Full Stack Developer | AI Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pallavi123-bit" alt="pallavi123-bit" /></a> </p>
-
-- 🔭 I’m currently working on [smartassist-chatbot](https://github.com/Pallavi123-bit/smartassist-chatbot)
-
-- 🌱 I’m currently learning **MCA**
-
-- 👯 I’m looking to collaborate on [woofit-pet-store](https://github.com/Pallavi123-bit/woofit-pet-store)
-
-- 🤝 I’m looking for help with [woofit-pet-store](https://github.com/Pallavi123-bit/woofit-pet-store)
-
-- 💬 Ask me about **html,css**
-
-- 📫 How to reach me **pallavigirase2004@gmail.com**
-
-- ⚡ Fun fact **i am a student**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/pallavi-girase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pallavi-girase" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pallavi girase" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavi girase" height="30" width="40" /></a>
-<a href="https://instagram.com/pallavirajput2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pallavirajput2004" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Java+Full+Stack+Developer+in+Progress;Building+Web+Applications;Exploring+React+and+Spring+Boot;Learning+AI+and+Cloud+Technologies" alt="Animated typing text" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,12,20&height=150&section=header&text=Code%20%7C%20Learn%20%7C%20Build&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" alt="Profile banner" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavi123-bit&show_icons=true&locale=en&layout=compact" alt="pallavi123-bit" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavi123-bit&show_icons=true&locale=en" alt="pallavi123-bit" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi123-bit&" alt="pallavi123-bit" /></p>
+- 🎓 Currently pursuing MCA (2nd year).
+- 💻 Interested in Java Full Stack Development.
+- 🌱 Learning Java, Spring Boot, React.js, and REST APIs.
+- 🤖 Exploring AI integrations and intelligent applications.
+- ☁️ Interested in Cloud Computing and DevOps.
+- 🚀 Building projects to improve my practical development skills.
+- 🤝 Open to collaborating on learning-focused development projects.
+- 🎯 Goal: Build scalable, useful, and user-friendly applications.
 
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" alt="Programming languages" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular" alt="Frontend technologies" />
+</p>
+
+### Backend and Database
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,mysql,sqlite" alt="Backend and database technologies" />
+</p>
+
+### Tools and Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker" alt="Development tools" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 1. Learnify — Learning Management System
+📚 A learning platform for students and administrators.
+
+- Student registration and login
+- Course management and progress tracking
+- Lessons, quizzes, and an admin dashboard
+- **Tech Stack:** HTML, CSS, JavaScript, Python Flask, SQLite/MySQL
+
+🔗 [View Repository](https://github.com/YOUR_USERNAME/learnify)
+
+### 2. SmartAssist — AI Chatbot
+🤖 An AI-powered assistant designed to help users interact with a chatbot.
+
+- Interactive chat interface
+- Backend integration
+- Extensible design for AI-powered features
+- **Tech Stack:** Python, HTML, CSS, JavaScript
+
+🔗 [View Repository](https://github.com/YOUR_USERNAME/smartassist-chatbot)
+
+### 3. WoofIT — Pet Store Website
+🐾 A responsive e-commerce website concept for pet products.
+
+- Pet food, toys, and grooming product sections
+- Responsive website layout
+- Product browsing interface
+- **Tech Stack:** HTML, CSS, JavaScript
+
+🔗 [View Repository](https://github.com/YOUR_USERNAME/woofit)
+
+> Replace these project names, descriptions, technologies, and repository links if your actual project details differ.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used programming languages" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
+*Note: The contribution snake requires a GitHub Actions workflow to generate the SVG before it will display.*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+> "Learn continuously, build consistently, and turn ideas into working solutions."
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" alt="Footer banner" />
+</p>

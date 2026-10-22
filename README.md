@@ -100,13 +100,16 @@
 
 ## 🐍 Contribution Activity
 
+## 🐍 Contribution Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pallavi123-bit/Pallavi123-bit/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/Pallavi123-bit/Pallavi123-bit/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
 </p>
 
-*Note: The contribution snake requires a GitHub Actions workflow to generate the SVG before it will display.*
-
----
 
 ## 🌐 Connect With Me
 

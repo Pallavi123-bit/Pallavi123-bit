@@ -1,28 +1,24 @@
-# ⚡ PALLAVI GIRASE
+# ⚡ Hi, I'm Pallavi Girase
 
 <h3 align="center">💻 MCA Student | Aspiring Python Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Java+Full+Stack+Developer+in+Progress;Building+Web+Applications;Exploring+React+and+Spring+Boot;Learning+AI+and+Cloud+Technologies" alt="Animated typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Java+Full+Stack+Developer+in+Progress;Building+Web+Applications;Exploring+React+and+Spring+Boot;Learning+AI+and+Cloud+Technologies" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:101044,75:301060,100:00D4FF&height=180&section=header&text=CODE%20%7C%20LEARN%20%7C%20BUILD&fontSize=32&fontColor=00E5FF&animation=twinkling" width="100%" alt="Neon banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:101044,75:301060,100:00D4FF&height=190&section=header&text=CODE%20%7C%20LEARN%20%7C%20BUILD&fontSize=32&fontColor=00E5FF&animation=twinkling" width="100%" alt="Cyberpunk banner"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MCA-STUDENT-00E5FF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-BB86FC?style=for-the-badge&labelColor=050510"/>
+  <img src="https://img.shields.io/badge/FULL_STACK-DEVELOPER-BB86FC?style=for-the-badge&labelColor=050510"/>
   <img src="https://img.shields.io/badge/AI-ENTHUSIAST-00D4FF?style=for-the-badge&labelColor=050510"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:4169E1,100:BB86FC&height=3" width="100%"/>
 </p>
 
 ---
 
-## 🔹 01. ABOUT ME
+## 🔹 ABOUT ME
 
 - 🎓 Currently pursuing MCA (2nd year).
 - 💻 Interested in Python Full Stack Development.
@@ -34,14 +30,10 @@
 - 🎯 Goal: Build scalable, useful, and user-friendly applications.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ABOUT_ME-00E5FF?style=flat-square&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/LEARNING-4169E1?style=flat-square&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/DEVELOPMENT-BB86FC?style=flat-square&labelColor=050510"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7B2FF7,100:00E5FF&height=3" width="100%"/>
 </p>
 
----
-
-## 🔹 02. TECH STACK
+## 🔹 TECH STACK
 
 ### 💻 Programming Languages
 
@@ -67,24 +59,18 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker&theme=dark"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TECHNOLOGY-00E5FF?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/DEVELOPMENT-4169E1?style=for-the-badge&labelColor=050510"/>
-  <img src="https://img.shields.io/badge/TOOLS-BB86FC?style=for-the-badge&labelColor=050510"/>
-</p>
-
 ---
 
-## 🔹 03. FEATURED PROJECTS
+## 🔹 FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">📚 01. LEARNIFY</h3>
+<h3 align="center">01. 📚 Learnify</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/LEARNING-MANAGEMENT-BB86FC?style=for-the-badge&labelColor=050510"/>
+<img src="https://img.shields.io/badge/LEARNIFY-00E5FF?style=for-the-badge&labelColor=050510"/>
 </p>
 
 A learning platform for students and administrators.
@@ -96,17 +82,17 @@ A learning platform for students and administrators.
 
 <p align="center">
 <a href="https://github.com/Pallavi123-bit/learnify">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-4169E1?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
 </a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 02. SMARTASSIST</h3>
+<h3 align="center">02. 🤖 SmartAssist</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/AI-CHATBOT-BB86FC?style=for-the-badge&labelColor=050510"/>
+<img src="https://img.shields.io/badge/SMARTASSIST-BB86FC?style=for-the-badge&labelColor=050510"/>
 </p>
 
 An AI-powered assistant designed to help users interact with a chatbot.
@@ -118,7 +104,7 @@ An AI-powered assistant designed to help users interact with a chatbot.
 
 <p align="center">
 <a href="https://github.com/Pallavi123-bit/smartassist-chatbot">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-4169E1?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-BB86FC?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
 </a>
 </p>
 
@@ -128,10 +114,10 @@ An AI-powered assistant designed to help users interact with a chatbot.
 <tr>
 <td colspan="2" valign="top">
 
-<h3 align="center">🐾 03. WOOFIT — PET STORE WEBSITE</h3>
+<h3 align="center">03. 🐾 WoofIT — Pet Store Website</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/ECOMMERCE-WEBSITE-BB86FC?style=for-the-badge&labelColor=050510"/>
+<img src="https://img.shields.io/badge/WOOFIT-7AA2F7?style=for-the-badge&labelColor=050510"/>
 </p>
 
 A responsive e-commerce website concept for pet products.
@@ -143,7 +129,7 @@ A responsive e-commerce website concept for pet products.
 
 <p align="center">
 <a href="https://github.com/Pallavi123-bit/woofit">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-4169E1?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7AA2F7?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
 </a>
 </p>
 
@@ -155,28 +141,24 @@ A responsive e-commerce website concept for pet products.
 
 ---
 
-## 🔹 04. GITHUB STATISTICS
+## 🔹 GITHUB STATISTICS
 
 <p align="center">
-  <a href="https://github.com/Pallavi123-bit">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pallavi123-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00E5FF&icon_color=BB86FC&text_color=E0E7FF&rank_icon=github" alt="GitHub statistics"/>
-  </a>
-  <a href="https://github.com/Pallavi123-bit">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi123-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=E0E7FF" alt="Most used programming languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pallavi123-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00E5FF&icon_color=BB86FC&text_color=E0E7FF&rank_icon=github" height="180" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi123-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=E0E7FF" height="180" alt="Top languages"/>
 </p>
 
 ---
 
-## 🔹 05. CONTRIBUTION STREAK
+## 🔹 CONTRIBUTION STREAK
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pallavi123-bit&theme=tokyonight&hide_border=true&background=050510&ring=00E5FF&fire=BB86FC&currStreakLabel=00E5FF&sideLabels=4169E1" width="90%" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Pallavi123-bit&theme=tokyonight&hide_border=true&background=050510&ring=00E5FF&fire=BB86FC&currStreakLabel=00E5FF&sideLabels=7AA2F7" width="90%" alt="Contribution streak"/>
 </p>
 
 ---
 
-## 🔹 06. CONTRIBUTION ACTIVITY
+## 🔹 CONTRIBUTION ACTIVITY
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pallavi123-bit/Pallavi123-bit/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
@@ -184,23 +166,23 @@ A responsive e-commerce website concept for pet products.
 
 ---
 
-## 🔹 07. CONNECT WITH ME
+## 🔹 CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/Pallavi123-bit">
-    <img src="https://img.shields.io/badge/GitHub-Profile-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050510"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050510" alt="GitHub profile"/>
   </a>
   <a href="https://www.linkedin.com/in/pallavi-girase-it/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-BB86FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050510"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-BB86FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050510" alt="LinkedIn profile"/>
   </a>
 </p>
 
 ---
 
-## 🔹 08. DEVELOPER MINDSET
+## 🔹 DEVELOPER MINDSET
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=19&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Learn+Continuously;Build+Consistently;Turn+Ideas+Into+Working+Solutions" alt="Developer mindset"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Learn+Continuously;Build+Consistently;Turn+Ideas+Into+Working+Solutions" alt="Developer mindset"/>
 </p>
 
 <p align="center">
@@ -216,5 +198,5 @@ A responsive e-commerce website concept for pet products.
 </p>
 
 <p align="center">
-  <b>⚡ KEEP CODING | KEEP CREATING | KEEP GROWING ⚡</b>
+  <b>⚡ KEEP CODING • KEEP CREATING • KEEP GROWING ⚡</b>
 </p>

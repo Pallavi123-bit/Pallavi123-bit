@@ -138,16 +138,20 @@ A responsive e-commerce website concept for pet products.
 
 > Replace these project names, descriptions, technologies, and repository links if your actual project details differ.
 
----
-
 ## 🔹 GITHUB STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pallavi123-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00E5FF&icon_color=BB86FC&text_color=E0E7FF&rank_icon=github" height="180" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi123-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=E0E7FF" height="180" alt="Top languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Pallavi123-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00E5FF&icon_color=BB86FC&text_color=E0E7FF&rank_icon=github"
+    height="180"
+    alt="Pallavi's GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pallavi123-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=E0E7FF"
+    height="180"
+    alt="Most Used Programming Languages"
+  />
 </p>
-
----
 
 ## 🔹 CONTRIBUTION STREAK
 
